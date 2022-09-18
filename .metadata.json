@@ -3,6 +3,9 @@
     "package": "GOexpress"
   },
   {
+    "package": "velociraptor"
+  },
+  {
     "package": "TVTB"
   }
 ]

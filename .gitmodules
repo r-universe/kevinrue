@@ -8,6 +8,11 @@
 	url = https://github.com/kevinrue/goexpress
 	shallow = true
 	registered = true
+[submodule "velociraptor"]
+	path = velociraptor
+	url = https://github.com/kevinrue/velociraptor
+	shallow = true
+	registered = true
 [submodule "TVTB"]
 	path = TVTB
 	url = https://github.com/kevinrue/tvtb
