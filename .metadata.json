@@ -1,11 +1,11 @@
 [
   {
-    "package": "GOexpress"
-  },
-  {
     "package": "TVTB"
   },
   {
     "package": "velociraptor"
+  },
+  {
+    "package": "GOexpress"
   }
 ]

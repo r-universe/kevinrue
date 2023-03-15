@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "GOexpress"]
-	path = GOexpress
-	url = https://github.com/kevinrue/goexpress
-	shallow = true
-	registered = true
 [submodule "TVTB"]
 	path = TVTB
 	url = https://github.com/kevinrue/tvtb
@@ -16,5 +11,10 @@
 [submodule "velociraptor"]
 	path = velociraptor
 	url = https://github.com/kevinrue/velociraptor
+	shallow = true
+	registered = true
+[submodule "GOexpress"]
+	path = GOexpress
+	url = https://github.com/kevinrue/goexpress
 	shallow = true
 	registered = true
