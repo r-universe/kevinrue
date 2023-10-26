@@ -5,6 +5,9 @@
 [submodule "GOexpress"]
 	path = GOexpress
 	url = https://github.com/kevinrue/goexpress
+[submodule "TVTB"]
+	path = TVTB
+	url = https://github.com/kevinrue/tvtb
 [submodule "velociraptor"]
 	path = velociraptor
 	url = https://github.com/kevinrue/velociraptor
